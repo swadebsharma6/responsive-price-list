@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Membership",
+    "monthlyFee": 30,
+    "features": [
+      "Access to gym equipment during off-peak hours",
+      "No access to group fitness classes"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Standard Membership",
+    "monthlyFee": 50,
+    "features": [
+      "24/7 access to the gym facility",
+      "Access to all gym equipment and machines"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Premium Membership",
+    "monthlyFee": 80,
+    "features": [
+      "24/7 access to the gym facility",
+      "Access to all gym equipment and machines"
+    ]
+  }
+]
